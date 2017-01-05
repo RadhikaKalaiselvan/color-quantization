@@ -1,4 +1,7 @@
-To execute the code :
+
+We have used unsupervised learning (K means algorithm) to reduce the number of color points in an
+image. This application is also referred to as image segmentation or color quantization.
+
 javac ImageSegmentation.java
 java ImageSegmentation
 
